@@ -2,7 +2,7 @@
 # Book Charm (E-Commerce Web Application)
 
 # Introduction
-Welcome to BookCharm, an e-commerce web application developed by our team during our journey at CDAC. BookCharm aims to provide users with a seamless shopping experience, offering a wide range of products in Books categories.
+Welcome to BookCharm, an e-commerce web application developed by our team during our journey at MCA. BookCharm aims to provide users with a seamless shopping experience, offering a wide range of products in Books categories.
 
 The project is divided into two main services, each serving a distinct purpose:
 

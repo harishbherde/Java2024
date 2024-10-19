@@ -1,0 +1,18 @@
+package OOPS;
+
+public class Engine
+{
+	String fuel;
+	int cc;
+	double bhp;
+	int wt;
+	int cy;
+	int stroke;
+
+	public Engine()
+	{
+	
+	}
+
+	Engine()
+}
